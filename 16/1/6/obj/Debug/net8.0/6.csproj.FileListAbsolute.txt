@@ -1,0 +1,15 @@
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\bin\Debug\net8.0\6.exe
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\bin\Debug\net8.0\6.deps.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\bin\Debug\net8.0\6.runtimeconfig.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\bin\Debug\net8.0\6.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\bin\Debug\net8.0\6.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.sourcelink.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\refint\6.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\16\1\6\obj\Debug\net8.0\ref\6.dll
