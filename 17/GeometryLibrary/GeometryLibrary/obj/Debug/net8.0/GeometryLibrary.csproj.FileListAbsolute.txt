@@ -1,0 +1,12 @@
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.deps.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\bin\Debug\net8.0\GeometryLibrary.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfoInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.AssemblyInfo.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.csproj.CoreCompileInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.sourcelink.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\refint\GeometryLibrary.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\GeometryLibrary.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\17\GeometryLibrary\GeometryLibrary\obj\Debug\net8.0\ref\GeometryLibrary.dll
