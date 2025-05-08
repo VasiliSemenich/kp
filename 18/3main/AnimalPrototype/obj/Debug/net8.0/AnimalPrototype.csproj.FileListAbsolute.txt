@@ -1,0 +1,12 @@
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\bin\Debug\net8.0\AnimalPrototype.deps.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\bin\Debug\net8.0\AnimalPrototype.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\bin\Debug\net8.0\AnimalPrototype.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.AssemblyInfoInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.AssemblyInfo.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.csproj.CoreCompileInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.sourcelink.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\refint\AnimalPrototype.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\AnimalPrototype.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\18\3main\AnimalPrototype\obj\Debug\net8.0\ref\AnimalPrototype.dll
