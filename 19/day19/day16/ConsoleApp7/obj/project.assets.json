@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Interop.IWshRuntimeLibrary/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Interop.IWshRuntimeLibrary.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Interop.IWshRuntimeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interop.IWshRuntimeLibrary/1.0.1": {
+      "sha512": "wUgwJ2GPD7ovBqDM2x426QJxw6W6FFQPSPbsFrl7H6CHrzTiooL/0mN5er/7D7aYLye0KX3wHwwqy3QRRFbMzg==",
+      "type": "package",
+      "path": "interop.iwshruntimelibrary/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "interop.iwshruntimelibrary.1.0.1.nupkg.sha512",
+        "interop.iwshruntimelibrary.nuspec",
+        "lib/net45/Interop.IWshRuntimeLibrary.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Interop.IWshRuntimeLibrary >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Пригожин Женя\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\!!!!!!kpiap-practice\\day16\\ConsoleApp7\\ConsoleApp7.csproj",
+      "projectName": "ConsoleApp7",
+      "projectPath": "D:\\!!!!!!kpiap-practice\\day16\\ConsoleApp7\\ConsoleApp7.csproj",
+      "packagesPath": "C:\\Users\\Пригожин Женя\\.nuget\\packages\\",
+      "outputPath": "D:\\!!!!!!kpiap-practice\\day16\\ConsoleApp7\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Пригожин Женя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Interop.IWshRuntimeLibrary": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"Interop.IWshRuntimeLibrary 1.0.1\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\", а не целевой платформы проекта \"net8.0\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "Interop.IWshRuntimeLibrary",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

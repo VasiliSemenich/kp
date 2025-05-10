@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "D:\\!!!!!!kpiap-practice\\day19\\day3\\ConsoleApp2\\ConsoleApp2.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Пригожин Женя\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\!!!!!!kpiap-practice\\day19\\day3\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectName": "ClassLibrary1",
+      "projectPath": "D:\\!!!!!!kpiap-practice\\day19\\day3\\ClassLibrary1\\ClassLibrary1.csproj",
+      "packagesPath": "C:\\Users\\Пригожин Женя\\.nuget\\packages\\",
+      "outputPath": "D:\\!!!!!!kpiap-practice\\day19\\day3\\ClassLibrary1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Пригожин Женя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\!!!!!!kpiap-practice\\day19\\day3\\ConsoleApp2\\ConsoleApp2.csproj": {
+              "projectPath": "D:\\!!!!!!kpiap-practice\\day19\\day3\\ConsoleApp2\\ConsoleApp2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Не удалось найти сведения о проекте для \"D:\\!!!!!!kpiap-practice\\day19\\day3\\ConsoleApp2\\ConsoleApp2.csproj\". Если вы используете Visual Studio, причина может заключаться в том, что проект выгружен или не является частью текущего решения. В этом случае выполните восстановление из командной строки. В противном случае причина может быть связана с тем, что файл проекта является недопустимым или отсутствуют целевые объекты, необходимые для восстановления.",
+      "libraryId": "D:\\!!!!!!kpiap-practice\\day19\\day3\\ConsoleApp2\\ConsoleApp2.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

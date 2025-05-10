@@ -1,0 +1,15 @@
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\bin\Debug\net8.0\ConsoleApp3.1.exe
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\bin\Debug\net8.0\ConsoleApp3.1.deps.json
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\bin\Debug\net8.0\ConsoleApp3.1.runtimeconfig.json
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\bin\Debug\net8.0\ConsoleApp3.1.dll
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\bin\Debug\net8.0\ConsoleApp3.1.pdb
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.AssemblyInfoInputs.cache
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.AssemblyInfo.cs
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.csproj.CoreCompileInputs.cache
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.sourcelink.json
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.dll
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\refint\ConsoleApp3.1.dll
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.pdb
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ConsoleApp3.1.genruntimeconfig.cache
+D:\!!!!!!kpiap-practice\day4\ConsoleApp3.1\obj\Debug\net8.0\ref\ConsoleApp3.1.dll

@@ -1,0 +1,15 @@
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.sourcelink.json
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+D:\!!!!!!kpiap-practice\day16\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
