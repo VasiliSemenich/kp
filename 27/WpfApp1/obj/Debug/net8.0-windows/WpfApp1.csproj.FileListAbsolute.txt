@@ -1,0 +1,63 @@
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\!!!!!!kpiap-practice\day26\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\!!!!!!kpiap-practice\day26\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\!!!!!!kpiap-practice\day26\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\!!!!!!kpiap-practice\day26\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day26\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\!!!!!!kpiap-practice\day26\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\!!!!!!kpiap-practice\day27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\!!!!!!kpiap-practice\day27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\!!!!!!kpiap-practice\day27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\!!!!!!kpiap-practice\day27\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.lref
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.sourcelink.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\27\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
