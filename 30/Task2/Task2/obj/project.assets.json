@@ -285,23 +285,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\imgam\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imgam\\OneDrive\\Документы\\GitHub\\Practica\\Day30\\Task2\\Task2\\Task2.csproj",
+      "projectUniqueName": "D:\\!КУРСАЧ ЗАДАНИЯ\\1\\kp\\30\\Task2\\Task2\\Task2.csproj",
       "projectName": "Task2",
-      "projectPath": "C:\\Users\\imgam\\OneDrive\\Документы\\GitHub\\Practica\\Day30\\Task2\\Task2\\Task2.csproj",
-      "packagesPath": "C:\\Users\\imgam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imgam\\OneDrive\\Документы\\GitHub\\Practica\\Day30\\Task2\\Task2\\obj\\",
+      "projectPath": "D:\\!КУРСАЧ ЗАДАНИЯ\\1\\kp\\30\\Task2\\Task2\\Task2.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\!КУРСАЧ ЗАДАНИЯ\\1\\kp\\30\\Task2\\Task2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\imgam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -328,7 +328,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -358,7 +358,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

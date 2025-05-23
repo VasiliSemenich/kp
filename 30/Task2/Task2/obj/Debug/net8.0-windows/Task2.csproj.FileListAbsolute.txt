@@ -26,3 +26,31 @@ C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day30\Task2\Task2\obj
 C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day30\Task2\Task2\obj\Debug\net8.0-windows\Task2.pdb
 C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day30\Task2\Task2\obj\Debug\net8.0-windows\Task2.genruntimeconfig.cache
 C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day30\Task2\Task2\obj\Debug\net8.0-windows\ref\Task2.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\Task2.exe
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\Task2.deps.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\Task2.runtimeconfig.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\Task2.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\Task2.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.AssemblyReference.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.Form1.resources
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.GenerateResource.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.AssemblyInfoInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.AssemblyInfo.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.CoreCompileInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.sourcelink.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.csproj.Up2Date
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\refint\Task2.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\Task2.genruntimeconfig.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\30\Task2\Task2\obj\Debug\net8.0-windows\ref\Task2.dll

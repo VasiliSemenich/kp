@@ -1,0 +1,142 @@
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.AssemblyReference.cache
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.Form1.resources
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.GenerateResource.cache
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.sourcelink.json
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.exe
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.pdb
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.Up2Date
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.pdb
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+C:\Users\imgam\OneDrive\Документы\GitHub\Practica\Day31\Task1\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.exe
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.deps.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.runtimeconfig.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Task1.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.AssemblyReference.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.Form1.resources
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.GenerateResource.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfoInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.AssemblyInfo.cs
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.CoreCompileInputs.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.sourcelink.json
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.csproj.Up2Date
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\refint\Task1.dll
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.pdb
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\Task1.genruntimeconfig.cache
+D:\!КУРСАЧ ЗАДАНИЯ\1\kp\31\Day31\Task1\Task1\obj\Debug\net8.0-windows\ref\Task1.dll
